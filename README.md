@@ -26,14 +26,15 @@ Hello! I am Afrose Fathima, an aspiring Data Analyst and fresher interested in d
 - Used KPIs, charts, graphs and filters.
 - Cleaned and transformed data for reporting.
 
-### 3. Employee Management Application
+### 3. Employee Management System
 **Status: In Progress**
 **Tool: MySQL**
 
-- Planning to create an Employee Management Application using MySQL.
-- Designing database tables.
-- Learning to manage employee records using SQL queries.
-- Planning to implement employee record management operations.
+-Developed an Employee Management System using MySQL.
+-Created and managed employee database tables.
+-Performed CRUD operations (INSERT, SELECT, UPDATE, DELETE).
+-Used SQL queries to retrieve, update, and manage employee information.
+-Applied SQL concepts such as Primary Key, Foreign Key, WHERE, ORDER BY, and GROUP BY
 
 ## Contact
 GitHub: https://github.com/fathimaafrose1230
